@@ -72,21 +72,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ParkTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/guozhengtest/ParkTest.java">
+      <file leaf-file-name="Boy.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/guozheng/Boy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="0" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.66519827">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParkPlace.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/guozheng/ParkPlace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="22" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
+            <state line="4" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.16740088">
               <folding />
             </state>
           </provider>
@@ -110,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/guozheng/ParkMessage.java" />
         <option value="$PROJECT_DIR$/src/guozheng/BoyMessage.java" />
         <option value="$PROJECT_DIR$/src/guozhengtest/ParkTest.java" />
+        <option value="$PROJECT_DIR$/src/guozheng/Boy.java" />
       </list>
     </option>
   </component>
@@ -602,17 +592,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/guozheng/ParkPlace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="22" selection-start="961" selection-end="961" vertical-scroll-proportion="0.0">
+        <state line="32" column="22" selection-start="961" selection-end="961" vertical-scroll-proportion="0.59183675">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/guozhengtest/ParkTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="0" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.66519827">
+        <state line="9" column="31" selection-start="209" selection-end="209" vertical-scroll-proportion="0.37665197">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/guozheng/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.16740088">
+          <folding />
         </state>
       </provider>
     </entry>
